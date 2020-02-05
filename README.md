@@ -1,9 +1,9 @@
-# woocommerce-custom-pages
+# Woocommerce Custom Pages Development ⚡
 Custom pages for wooocommerce that can be used to customize your Product, Category, Cart, Checkout and Myaccount Woocommerce pages.
 
 ----- SUBSCRIBE TO [YOUTUBECHANNEL](https://www.youtube.com/c/ImranSayedDev?sub_confirmation=1) - to support my work 🙏
 
-******* CURRENT PLAYLIST ******
+******* 🔗 CURRENT PLAYLIST 🔗 ******
 
 https://codeytek.com/course/woocommerce-basics-and-customization-course/
 
@@ -27,7 +27,7 @@ Github - imranhsayed
 https://github.com/imranhsayed
 
 
-Other Videos in this series:
+Other Videos in this series: 🏻  
 
 https://youtu.be/wuZRQRposTE
 
