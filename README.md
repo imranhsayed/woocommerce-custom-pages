@@ -25,12 +25,20 @@ Please follow 🙏
 
 Other Videos in this series: 🏻  
 
-* https://youtu.be/wuZRQRposTE
+* [#1 Woocommerce Basics and Customization | WordPress](https://youtu.be/wuZRQRposTE?list=PLD8nQCAhR3tSX58ydx66s1LQhbHN86pWy)
 
-* https://youtu.be/YanyF5bjobQ
+* [#2 Woocommerce Installation and Use | WordPress](https://youtu.be/2S6LRtA678Q)
 
-* https://youtu.be/1CquVG_O-Ng
+* [#3 Customize Woocommerce Product Page](https://youtu.be/YanyF5bjobQ)
 
-* https://youtu.be/ETJ2X2tWTlk
+* [#4 Create Custom Woocommerce Product Page](https://youtu.be/XPbNd3kpvCA)
 
-* https://youtu.be/TfC24hnLLMc
+* [#5 Create Custom Woocommerce Product Page Sorting Filter](https://youtu.be/1CquVG_O-Ng)
+
+* [#6 Custom WooCommerce Single Product Page](https://youtu.be/adQkthaZJxg)
+
+* [#7 Customize WooCommerce Category Page](https://youtu.be/ETJ2X2tWTlk)
+
+* [#8 Custom Woocommerce Product Category Single Page](https://youtu.be/TfC24hnLLMc)
+
+* [#9 Customize WooCommerce Checkout, Cart and Myaccount page](https://youtu.be/r80cUSJfo9Y)
