@@ -5,26 +5,22 @@ Custom pages for wooocommerce that can be used to customize your Product, Catego
 
 ******* 🔗 CURRENT PLAYLIST 🔗 ******
 
-https://codeytek.com/course/woocommerce-basics-and-customization-course/
+👉 https://codeytek.com/course/woocommerce-basics-and-customization-course/
 
 
 ******* PLEASE STAR MY REPO TO SUPPORT ME ******
 
-https://github.com/imranhsayed/woocommerce-custom-pages
+👉 https://github.com/imranhsayed/woocommerce-custom-pages
 
 ******* Social Links ********
 
 
 Please follow 🙏
 
-Twitter - @imranhsayed
+👉 Twitter - [@imranhsayed](https://twitter.com/imranhsayed)
 
 
-https://twitter.com/imranhsayed
-
-Github - imranhsayed 
-
-https://github.com/imranhsayed
+👉 Github - [imranhsayed](https://github.com/imranhsayed)
 
 
 Other Videos in this series: 🏻  
