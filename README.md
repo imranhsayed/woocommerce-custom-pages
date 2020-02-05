@@ -2,7 +2,7 @@
 Custom pages for wooocommerce that can be used to customize your Product, Category, Cart, Checkout and Myaccount Woocommerce pages.
 
 Entire Playlist
-https://codeytek.com/archives/course/woocommerce-basics-and-customization-course
+https://codeytek.com/course/woocommerce-basics-and-customization-course/
 
 https://youtu.be/wuZRQRposTE
 
